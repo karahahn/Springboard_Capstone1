@@ -1,4 +1,4 @@
-# Springboard_Capstone1
+# Springboard Capstone 1
 
 ## Link to Milestone Report and Slide Deck
 ### Document
